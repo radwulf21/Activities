@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="input_num">Insira um número</string>
+    <string name="btn_verificar">Verificar</string>
+</resources>
